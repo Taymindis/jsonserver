@@ -1,18 +1,62 @@
-[
-  {
-    "id": 1,
-    "name": "Users",
-    "type": "GET_LIST",
-    "url"
-  },{
-    "id":2,
-    "name": "Posts",
-    "type": "GET_LIST",
-    "url"
-  },{
-    "id": 3,
-    "name": "Comments",
-    "type": "GET_LIST",
-    "url"
-  },
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "John@fakejson.com"
+    },
+    {
+      "id": 2,
+      "name": "WeiXiang",
+      "email": "weixiang@fakejson.com"
+    },
+    {
+      "id": 3,
+      "name": "lilic",
+      "email": "lilic@fakejson.com"
+    },
+    {
+      "id": 4,
+      "name": "nicholas",
+      "email": "nicholas@fakejson.com"
+    },
+    {
+      "id": 5,
+      "name": "deborah",
+      "email": "deborah@fakejson.com"
+    },
+    {
+      "id": 6,
+      "name": "sherri",
+      "email": "sherri@fakejson.com"
+    },
+    {
+      "id": 7,
+      "name": "yujin",
+      "email": "yujin@fakejson.com"
+    },
+    {
+      "id": 8,
+      "name": "woon",
+      "email": "woon@fakejson.com"
+    },
+  ],
+  comments: [
+    {
+      "id": 1,
+      "userid": 1,
+      "contents": "This is awesome",
+    },
+    {
+      "id": 2,
+      "userid": 1,
+      "contents": "Had played for 1 month",
+    },
+    {
+      "id": 3,
+      "userid": 8,
+      "contents": "Using it daily user friendly",
+    },
+    
+  ]
+}
