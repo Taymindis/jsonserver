@@ -22,7 +22,7 @@
       "bs": "harness real-time e-markets"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -40,7 +40,7 @@
       "bs": "synergize scalable supply-chains"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -59,7 +59,7 @@
       "bs": "e-enable strategic applications"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -77,7 +77,7 @@
       "bs": "transition cutting-edge web services"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -95,7 +95,7 @@
       "bs": "revolutionize end-to-end systems"
     },
     "all_comment":{
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -113,7 +113,7 @@
       "bs": "e-enable innovative applications"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -131,7 +131,7 @@
       "bs": "generate enterprise e-tailers"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -149,7 +149,7 @@
       "bs": "e-enable extensible e-tailers"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -167,7 +167,7 @@
       "bs": "aggregate real-time technologies"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   },
   {
@@ -185,7 +185,7 @@
       "bs": "target end-to-end models"
     },
     "all_comment": {
-      "ref": "comments"
+      "refs": "comments"
     }
   }
 ]
